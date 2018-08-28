@@ -1,0 +1,71 @@
+
+<html>
+<head>
+<title>Student Management System</title>
+<style>
+#heading{
+color:blue;
+align:centre;
+}
+#mytable{
+align:center;
+}
+#fill{
+align:center;
+}
+#btn{
+color:blue;
+}
+</style>
+
+</head>
+<body>
+<?php
+$name = $age = $branch = $year = $sem= $per = "";
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  $name = $_POST["stdname"];
+  $age = $_POST["age"];
+  $branch = $_POST["branch"];
+  $year = $_POST["year"];
+  $sem = $_POST["semister"];
+$per=$_POST["percent"];
+}
+?>
+<h1 id="heading"><i>Student Application Form</i></h1>
+<hr
+
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?> 
+<table id="mytable">
+<tr>
+<td>
+Name: 
+</td>
+<td><input type="text" name="stdname"></input>
+</td>
+</td>
+<tr>
+<td>
+Age: 
+</td>
+<td><input type="integer" name="age"></input>
+</td>
+</tr>
+<tr>
+<td>
+Branch: 
+</td>
+<td>
+<input type="text" name="branch"></input>
+</td>
+</tr><tr>
+<td>
+Year: </td><td><input type="integer" name="year"></input></td></tr>
+<tr>
+<td>Semister: </td><td><input type="integer" name="semister"></input></td></tr>
+<tr>
+<td>Previous percentage:</td> <td><input type="integer" name="percent"></input></td></tr></table>
+<input type="submit" value="submit" ></input>
+</form>
+</body>
+</html>
