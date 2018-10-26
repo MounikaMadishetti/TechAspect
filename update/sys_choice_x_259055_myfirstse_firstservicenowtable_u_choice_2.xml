@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_2" table="x_259055_myfirstse_firstservicenowtable" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>first rank</label>
+            <language>en</language>
+            <name>x_259055_myfirstse_firstservicenowtable</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4ccb0134fb02300712d89dba310c774</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:08:58</sys_updated_on>
+            <value>first rank</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>second rank</label>
+            <language>en</language>
+            <name>x_259055_myfirstse_firstservicenowtable</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30ccb0134fb02300712d89dba310c782</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:08:58</sys_updated_on>
+            <value>second rank</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>third rank</label>
+            <language>en</language>
+            <name>x_259055_myfirstse_firstservicenowtable</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcccb0134fb02300712d89dba310c782</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:08:58</sys_updated_on>
+            <value>third rank</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <name>x_259055_myfirstse_firstservicenowtable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:08:58</sys_created_on>
+            <sys_id>f8ccb0134fb02300712d89dba310c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_2</sys_name>
+            <sys_package display_value="Myfirstservicenow" source="x_259055_myfirstse">d5673c5b4f702300712d89dba310c7a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Myfirstservicenow">d5673c5b4f702300712d89dba310c7a3</sys_scope>
+            <sys_update_name>sys_choice_x_259055_myfirstse_firstservicenowtable_u_choice_2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:08:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

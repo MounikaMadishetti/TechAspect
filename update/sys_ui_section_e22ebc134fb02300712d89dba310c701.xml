@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="e22ebc134fb02300712d89dba310c701" sys_domain="global" table="x_259055_myfirstse_firstservicenowtable" version="3" view="myview">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_id>fe2ebc134fb02300712d89dba310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_259055_myfirstse_firstservicenowtable" sys_domain="global" view="a22e7c134fb02300712d89dba310c7fe">e22ebc134fb02300712d89dba310c701</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_id>722ebc134fb02300712d89dba310c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_259055_myfirstse_firstservicenowtable" sys_domain="global" view="a22e7c134fb02300712d89dba310c7fe">e22ebc134fb02300712d89dba310c701</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_id>f22ebc134fb02300712d89dba310c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_259055_myfirstse_firstservicenowtable" sys_domain="global" view="a22e7c134fb02300712d89dba310c7fe">e22ebc134fb02300712d89dba310c701</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_id>762ebc134fb02300712d89dba310c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_259055_myfirstse_firstservicenowtable" sys_domain="global" view="a22e7c134fb02300712d89dba310c7fe">e22ebc134fb02300712d89dba310c701</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_id>f62ebc134fb02300712d89dba310c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_259055_myfirstse_firstservicenowtable" sys_domain="global" view="a22e7c134fb02300712d89dba310c7fe">e22ebc134fb02300712d89dba310c701</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_id>7a2ebc134fb02300712d89dba310c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_259055_myfirstse_firstservicenowtable" sys_domain="global" view="a22e7c134fb02300712d89dba310c7fe">e22ebc134fb02300712d89dba310c701</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_259055_myfirstse_firstservicenowtable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 08:15:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e22ebc134fb02300712d89dba310c701</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_259055_myfirstse_firstservicenowtable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Myfirstservicenow" source="x_259055_myfirstse">d5673c5b4f702300712d89dba310c7a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Myfirstservicenow">d5673c5b4f702300712d89dba310c7a3</sys_scope>
+            <sys_update_name>sys_ui_section_e22ebc134fb02300712d89dba310c701</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 08:15:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="myview" name="myview">a22e7c134fb02300712d89dba310c7fe</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

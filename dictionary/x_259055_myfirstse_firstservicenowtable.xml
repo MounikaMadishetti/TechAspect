@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="firstservicenowtable" max_length="40" name="x_259055_myfirstse_firstservicenowtable" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="gender" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="first rank" label="rank" mandatory="true" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element label="first rank" sequence="0" value="first rank"/>
+                <element label="second rank" sequence="1" value="second rank"/>
+                <element label="third rank" sequence="2" value="third rank"/>
+            </choice>
+        </element>
+        <element label="age" mandatory="true" max_length="40" name="u_integer_1" type="integer"/>
+    </element>
+</database>
